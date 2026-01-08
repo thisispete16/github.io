@@ -7,9 +7,9 @@
 
 // An array of image URLs
 const imageUrls = [
-    '/images/dailies1.jpg',
-    'dailies2.jpg',
-    'dailies3.jpg',
+    './images/dailies1.jpg',
+    './images/dailies2.jpg',
+    './images/dailies3.jpg',
     // Add more image URLs here
 ];
 
