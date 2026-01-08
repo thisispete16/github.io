@@ -10,7 +10,7 @@ arrayImg[6] = "400x400";
 getRandomImage(arrayImg, "");
 
 function getRandomImage(imgAr, path) {
-  path = path || "http://fpoimg.com/"; // default path here
+  path = path || "images/"; // default path here
   var num = Math.floor(Math.random() * imgAr.length);
   var img = imgAr[num];
   var imgStr = '<img src="' + path + img + '" alt = "">';
