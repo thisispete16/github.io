@@ -1,9 +1,9 @@
 // List of JPEG images
 const images = [
-  "dailies1.jpg",
-  "dailies2.jpg",
-  "dailies3.jpg",
-  "dailies4.jpg"
+  "/images/dailies1.jpg",
+  "/images/dailies2.jpg",
+  "/images/dailies3.jpg",
+  "/images/dailies4.jpg"
 ];
 
 // Pick a random image
